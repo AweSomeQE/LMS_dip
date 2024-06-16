@@ -1,5 +1,3 @@
-Here is the complete `README.md` fully in markdown format:
-
 ```markdown
 # Django_LMS Project
 
