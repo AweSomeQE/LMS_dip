@@ -1,4 +1,3 @@
-```markdown
 # Django_LMS Project
 
 ## Overview
@@ -111,6 +110,3 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
-
-This `README.md` file now fully adheres to markdown format, providing a comprehensive guide to your Django project, including instructions for installation, usage, and a detailed directory structure overview.
